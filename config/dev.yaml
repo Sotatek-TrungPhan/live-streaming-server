@@ -1,0 +1,25 @@
+version: 0.0.1
+server:
+  port: 3001
+database:
+  type: 
+  host: 
+  port: 
+  name: 
+  username: 
+  password: 
+app:
+  secret_key: 
+  jwt_expire: 
+service:
+  transport-tcp-auth-service: 
+openAI:
+  open_ai_key: 
+  open_ai_org: 
+webhook:
+  secret: 
+rtcServer: 
+  host: stun:stun.l.google.com
+  port: 19302
+rtmp:
+  facebook: 
