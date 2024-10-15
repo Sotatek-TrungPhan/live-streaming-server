@@ -9,7 +9,4 @@ database:
   username: admin
   password: admin
 app:
-  line_login_channel_id: 2006450131
-  line_liff_id: 2006450131-PMgV4ELa
-  line_channel_secret: 77c8ea4a990aa063e028eb6063a9e92b
-  line_channel_access_token: DhbVNMHXiHg8ZtVErSlUc9Dgkw7FsRls65J892hdcIT1B/mT/N8wUXPWmeRXHtmXXNGocNXfffm8P4lv2HBUdgN3XwrIommmwwG2FyWyykXdA+nWITnI4Idj6EQYDSI/glw2ocRN4925ZAIjAzgyRQdB04t89/1O/w1cDnyilFU=
+  
